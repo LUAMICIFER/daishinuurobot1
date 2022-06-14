@@ -10,7 +10,7 @@ TRUTH = (
     "What is your biggest turn on?",
     "When’s the last time you lied to your parents and why?",
     "Describe your ideal partner.",
-    "Do you love @anonymous_was_bot ?",
+    "Do you love @luami_cifer ?",
     "What’s the scariest thing you’ve ever done?",
     "Have you ever picked your nose and eaten it?",
     "When’s the last time you lied to your parents and why?",
